@@ -1,3 +1,9 @@
+
+
+
+
+
+
 #BDMultiDownloader - Simple Objective-C block-based concurrent multiple-URL data downloader based only on NSURLConnection
 
 Your app needs to download concurrently from multiple URLs (local or not). This class does it in a simple way using blocks and NSURLConnection.
